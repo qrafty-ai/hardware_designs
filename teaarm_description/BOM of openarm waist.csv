@@ -1,0 +1,87 @@
+Item,Quantity,Name,Mass,Material
+1,1,8009P,0.921 kg,- None -
+2,1,base_sheet_metal,1.20359 kg,Stainless Steel 304
+3,1,square_base_plate,0.8524 kg,Aluminum - 6061
+4,8,Hex socket head cap screw M6x1.00 x 12,0.00579 kg,Steel
+5,5,Hex socket head cap screw M4x0.70 x 10,0.00206 kg,Steel
+6,23,Hex socket head cap screw M4x0.70 x 10,0.00203 kg,Stainless Steel
+7,1,DM-10010L,1.372 kg,- None -
+8,1,J_waist_pitch_D_for_CNC,0.05545 kg,Stainless Steel 304
+9,1,J_waist_yaw_A_CNC,0.07101 kg,Aluminum - 6061
+10,1,J_waist_yaw_A_CNC_A,0.21865 kg,Stainless Steel 304
+11,1,J_waist_yaw_A_CNC_B,0.1899 kg,Stainless Steel 304
+12,1,J_waist_yaw_C,0.15363 kg,Aluminum - 6061
+13,1,J_waist_pitch_AB_CNC,0.19023 kg,Aluminum - 6061
+14,12,Hex socket head cap screw M4x0.70 x 12,0.00226 kg,Steel
+15,8,Hex socket head cap screw M4x0.70 x 25,0.00354 kg,Steel
+16,9,Hex socket head cap screw M5x0.80 x 18,0.0047 kg,Steel
+17,4,Hex socket head cap screw M3x0.50 x 10,0.00105 kg,Steel
+18,1,J_waist_yaw_B_3D,0.025 kg,- None -
+19,1,fl6804ZZ,0.02945 kg,Stainless Steel 304
+20,1,J_waist_pitch_C_CNC,0.18975 kg,Aluminum - 6061
+21,6,Hex socket head cap screw M5x0.80 x 10,0.00346 kg,Steel
+22,1,extrusion,0.99722 kg,Aluminum - 6061
+23,16,Hex socket head cap screw M6x1.00 x 12,0.00571 kg,Stainless Steel
+24,2,J1_C,0.06277 kg,Aluminum - 6061
+25,2,J1_D,0.02818 kg,Stainless Steel 304
+26,4,DM-J8009P-2EC,0.921 kg,- None -
+27,2,J1_E,0.03097 kg,Stainless Steel 304
+28,22,Hex socket head cap screw M5x0.80 x 10,0.00342 kg,Stainless Steel
+29,14,Hex socket head cap screw M4x0.70 x 8,0.00184 kg,Stainless Steel
+30,2,J2_A,0.11383 kg,Stainless Steel 304
+31,2,J2_B,0.06204 kg,Aluminum - 6061
+32,2,J2_C,0.03253 kg,Stainless Steel 304
+33,16,Hex socket head cap screw M4x0.70 x 6,0.00164 kg,Stainless Steel
+34,12,Hex socket head cap screw M3x0.50 x 14,0.00126 kg,Stainless Steel
+35,44,Hex socket head cap screw M3x0.50 x 8,0.00093 kg,Stainless Steel
+36,2,J4_A,0.18765 kg,Stainless Steel 304
+37,2,J4_B,0.03179 kg,ppa-cf
+38,2,4340P,0.375 kg,- None -
+39,2,4340,0.362 kg,- None -
+40,2,C-FL6803ZZ,0 kg,- None -
+41,2,copper pillar 61,0.01161 kg,Copper
+42,122,Hex socket head cap screw M3x0.50 x 6,0.00082 kg,Stainless Steel
+43,2,J4_C,0.01234 kg,Aluminum - 6061
+44,2,J4_D,0.07767 kg,Stainless Steel 304
+45,2,J4_E,0.07988 kg,Stainless Steel 304
+46,6,4310,0.3 kg,- None -
+47,4,copper pillar 74.2,0.01412 kg,Copper
+48,2,J5_A,0.01581 kg,ppa-cf
+49,2,J6_A,0.05403 kg,Stainless Steel 304
+50,2,J6_B,0.04311 kg,Stainless Steel 304
+51,2,J6_D,0.02003 kg,Stainless Steel 304
+52,1,J6_C_left,0.01699 kg,Stainless Steel 304
+53,2,J7_E_orig,0.0037 kg,ppa-cf
+54,4,C-FL6700ZZ,0 kg,- None -
+55,20,Hex socket head cap screw M3x0.50 x 18,0.00148 kg,Stainless Steel
+56,2,J8_A,0.03669 kg,Aluminum - 6061
+57,2,4310,0.3 kg,- None -
+58,2,left_hard,0.028 kg,- None -
+59,2,left_soft,0.02 kg,- None -
+60,2,right_hard,0.028 kg,- None -
+61,2,right_soft,0.02 kg,- None -
+62,2,gripper_gear,0.01242 kg,Aluminum - 6061
+63,2,Mount v0.2 v15,0.0277 kg,- None -
+64,2,MGN9 Rail 150mm v3,0.089 kg,- None -
+65,4,Component2,0 kg,- None -
+66,4,Component3,0 kg,- None -
+67,4,Component6,0 kg,- None -
+68,4,Component8,0 kg,- None -
+69,4,Component1,0 kg,- None -
+70,4,Component7,0 kg,- None -
+71,4,Component5,0 kg,- None -
+72,4,Component4,0 kg,- None -
+73,4,Component9,0 kg,- None -
+74,4,FingerAdapter v0.2 v4,0.0126 kg,- None -
+75,4,Zahnstange v0.2 v2,0.00894 kg,Aluminum - 6061
+76,2,fisheye mount,0.031 kg,- None -
+77,2,oad-d mount,0 kg,- None -
+78,2,606-00020-SR_Front_cover,0.116 kg,- None -
+79,8,Hex nut grade A & B M3x0.5,0.00038 kg,Stainless Steel
+80,2,J8_B,0.02183 kg,ppa-cf
+81,14,Hex socket head cap screw M3x0.50 x 10,0.00104 kg,Stainless Steel
+82,2,J7_C,0.0087 kg,Aluminum - 6061
+83,2,J7_AB,0.0382 kg,PETG
+84,2,J1_A,0.06454 kg,ppa-cf
+85,2,J1_B,0.01553 kg,Aluminum - 6061
+86,1,J6_C_right,0.01699 kg,Stainless Steel 304

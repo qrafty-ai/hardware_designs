@@ -1,0 +1,213 @@
+export:
+  name: teaarm_asm
+  visual_option:
+    formats: ["dae", "glb", "stl", "obj"]
+    max_size_mb: 10.0
+  collision_option:
+    method: coacd
+    coacd:
+      threshold: 0.09
+      resolution: 2000
+      max_convex_hull: 8
+      preprocess: true
+      seed: 42
+      max_workers: 10
+  output: .
+  bom: null
+mate_values:
+  MbZm2yoxz7ohEvo/N:
+    featureId: MbZm2yoxz7ohEvo/N
+    mateName: joint_left_j1
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MFkLI1E6dy2bhZdFu:
+    featureId: MFkLI1E6dy2bhZdFu
+    mateName: joint_left_j2
+    joint_offset_rad: 0.0
+    invert_direction: true
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MbaRcioStbWDYY7kF:
+    featureId: MbaRcioStbWDYY7kF
+    mateName: joint_left_j3
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  M4yPDOfk+dZizCZjL:
+    featureId: M4yPDOfk+dZizCZjL
+    mateName: joint_left_j4
+    invert_direction: true
+    joint_offset_rad: 0.5235987755982988
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  Mu2C4e/3tr186pmU+:
+    featureId: Mu2C4e/3tr186pmU+
+    mateName: joint_left_j5
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  M9YfEaDR3OGpU4xh+:
+    featureId: M9YfEaDR3OGpU4xh+
+    mateName: joint_left_j6
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MDXkKxLZ7jP7yXVhB:
+    featureId: MDXkKxLZ7jP7yXVhB
+    mateName: joint_left_j7
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MNL0Uk2TtvDO1AfWD:
+    featureId: MNL0Uk2TtvDO1AfWD
+    mateName: joint_waist_yaw
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MSgD7wFIf7R66zFAN:
+    featureId: MSgD7wFIf7R66zFAN
+    mateName: joint_right_j1
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MUaGQsv7FFhA76vZA:
+    featureId: MUaGQsv7FFhA76vZA
+    mateName: joint_right_j2
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  Mvx9VYMnjfixlHPtx:
+    featureId: Mvx9VYMnjfixlHPtx
+    mateName: joint_right_j3
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  Ms9+XTo1QYU6s2WPc:
+    featureId: Ms9+XTo1QYU6s2WPc
+    mateName: joint_right_j6
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MKZ9Su8Kd0BmX1OLs:
+    featureId: MKZ9Su8Kd0BmX1OLs
+    mateName: joint_right_j4
+    invert_direction: true
+    joint_offset_rad: 0.5235987755982988
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  Mz6FRF+MAwX0aub9s:
+    featureId: Mz6FRF+MAwX0aub9s
+    mateName: joint_right_j5
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MxhhqtiKATGLJB8YM:
+    featureId: MxhhqtiKATGLJB8YM
+    mateName: joint_right_j7
+    invert_direction: true
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+  MBgUlqNwyB2tplc1a:
+    featureId: MBgUlqNwyB2tplc1a
+    mateName: joint_waist_pitch
+    invert_direction: false
+    joint_offset_rad: 0.0
+    rotationZ: 0.0
+    translationZ: 0.0
+    rotationX: 0.0
+    rotationY: 0.0
+    translationX: 0.0
+    translationY: 0.0
+link_names:
+  assemble_urdf_1_sub_asm_base_1_square_base_plate_1: base_link
+  assemble_urdf_1_sub_asm_vert_1_j_waist_yaw_a_cnc_1: waist_link
+  assemble_urdf_1_sub_asm_vert_1_j_waist_pitch_c_cnc_2: torso_link
+  left_arm_1_l1_asm_2_j1_c_1: left_arm_l1
+  right_arm_1_l1_asm_2_j1_c_1: right_arm_l1
+  left_arm_1_l2_asm_2_j2_a_1: left_arm_l2
+  right_arm_1_l2_asm_2_j2_a_1: right_arm_l2
+  left_arm_1_l3_asm_2_4340p_1: left_arm_l3
+  right_arm_1_l3_asm_2_4340p_1: right_arm_l3
+  left_arm_1_l4_asm_2_j4_c_1: left_arm_l4
+  right_arm_1_l4_asm_2_j4_c_1: right_arm_l4
+  left_arm_1_l5_left_asm_1_j5_a_1: left_arm_l5
+  right_arm_1_l5_right_asm_1_j5_a_1: right_arm_l5
+  left_arm_1_l6_urdf_1_j7_ab_1: left_arm_l6
+  right_arm_1_l6_urdf_1_j7_ab_1: right_arm_l6
+  left_arm_1_j8_a_1: left_arm_l7
+  right_arm_1_j8_a_1: right_arm_l7
+  frame_right_arm_ee: frame_right_arm_ee
+  frame_left_arm_ee: frame_left_arm_ee
