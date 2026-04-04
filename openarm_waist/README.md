@@ -2,9 +2,13 @@
 
 A waist extension for [OpenArm](https://openarm.dev/), providing additional degrees of freedom and mounting options.
 
-| ![Waist Assembly](../assets/waist.png) | ![Full Robot with Waist](../assets/teaarm.jpg) |
+![Full Robot with Waist](../assets/fullarm.png)
+<p align="center">Full Robot in use</p>
+
+
+| ![Waist Assembly](../assets/waist_new.png) | ![Full Robot with Waist](../assets/fullrobot.png) |
 |:---:|:---:|
-| Waist Assembly CAD | Full Robot with Waist |
+| Waist Assembly | Full Robot with Waist |
 
 ## About
 
